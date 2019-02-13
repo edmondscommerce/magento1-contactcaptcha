@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <EdmondsCommerce_ContactCaptcha>
+            <active>true</active>
+            <codePool>local</codePool>
+        </EdmondsCommerce_ContactCaptcha>
+    </modules>
+</config>
